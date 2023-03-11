@@ -8,9 +8,14 @@ import java.util.Scanner;
  */
 public class Suma {
 
-    
+   
     public static void main(String[] args) {
-       
+       Scanner obj = new Scanner(System.in);
+       //agegamos varibles 
+       int num1;
+       int num2;
+       int suma; 
+    
     }
     
 }
